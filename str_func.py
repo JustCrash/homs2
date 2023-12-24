@@ -1,6 +1,7 @@
 def with_a_capital_letter(text):
     """
-    Выводит текст
+    принимает текст и выводите 
+    его капсом
     """
     print(text.upper())
 
