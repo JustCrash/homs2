@@ -18,3 +18,5 @@ def get_title(text):
 
 
 get_title("ёлки-иголки")
+
+пуси-смузи
